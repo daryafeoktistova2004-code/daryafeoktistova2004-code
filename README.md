@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="Animated Header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Всем%Привет!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="Animated Header"/>
 </p>
 
 <!-- Typing SVG -->
@@ -39,7 +39,7 @@
 ## 🙋‍♂️ About Me
 
 - 🚀 **Обчение:** Уфимский колледж радиоэлектроники теллекоммуникаций и безопасности — Программист (2020 - 2024)
-Уфимский государственный нефтяной технический университет — Специальность: прикладная информатика (2024 - 2028)
+**Уфимский государственный нефтяной технический университет — Специальность: прикладная информатика (2024 - 2028)
 
 ---
 
@@ -48,14 +48,10 @@
   <img src="https://img.shields.io/badge/🚀-Projects-orange?style=for-the-badge" alt="Projects">
 </p>
 
-### 💡 **Projects:**
-1. **DevVani ChatApp:** Experience real-time communication with our MERN-based Chat Application.
-2. **Sarvam AI:** Discover AI excellence with 100+ platforms, offers, and solutions in one seamless React web app!
-3. **News App:** Developed a sophisticated application integrating real-time updates and user-friendly interfaces.
-4. **Weather Forecasting Web App:** Utilizing HTML, CSS, and JavaScript for accurate weather predictions.
-5. **Manasvita Mental Health Assessment Web Application:** [Check it out](https://github.com/VasudevJaiswal/Manasvita_Mental_Health_Assessment_Web_Application) – A web application designed to assess mental health and provide insights.
+### 💡 **Опыт работы:**
+1. **Опыт работы:** 
+РусНефтеГазСтрой+ — HR-менеджер (2024 - настоящее время)
 
----
 
 <!-- Skills Header -->
 <p align="center">
