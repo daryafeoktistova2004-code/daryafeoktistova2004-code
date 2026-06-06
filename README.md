@@ -5,28 +5,28 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Vasudev+Jaiswal's+Github+Profile.." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Darya+Feoktistova's+Github+Profile.." alt="Typing SVG"/>
 </p>
 
 <!-- Social Media Badges -->
 <p align="center">
-  <a href="https://twitter.com/VasudevJaiswal_">
+  <a href="https://twitter.com/Darya_">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://in.linkedin.com/in/VasudevJaiswal">
+  <a href="https://in.linkedin.com/in/darya">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/VasudevJaiswal">
+  <a href="https://www.instagram.com/ddaasshhaa">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:vasujaiswal00@gmail.com">
+  <a href="mailto:darya.feoktistova2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VasudevJaiswal&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=DaryaFeoktistova&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
@@ -38,8 +38,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🚀 **Education:** B.Tech in Computer Science and Engineering (Data Science)  
-  *JSS Academy of Technical Education - Noida*
+- 🚀 **Обчение:** Уфимский колледж радиоэлектроники теллекоммуникаций и безопасности — Программист (2020 - 2024)
+Уфимский государственный нефтяной технический университет — Специальность: прикладная информатика (2024 - 2028)
 
 ---
 
