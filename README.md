@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Всем%Привет!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="Animated Header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Привет!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="Animated Header"/>
 </p>
 
 <!-- Typing SVG -->
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/About%20Me-%23f97316?style=for-the-badge&logo=readme&logoColor=white" alt="About Me">
 </p>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Обо мне
 
 - 🚀 **Обчение:** Уфимский колледж радиоэлектроники теллекоммуникаций и безопасности — Программист (2020 - 2024)
 **Уфимский государственный нефтяной технический университет — Специальность: прикладная информатика (2024 - 2028)
